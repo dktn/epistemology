@@ -7,17 +7,21 @@ Adam Szlachta
 ---
 ## Marijuana
 
+Chronic pain treatment
+
 https://en.wikipedia.org/wiki/Medical_cannabis
 
 ---
 ## LSD
+
+LSD therapy
 
 https://en.wikipedia.org/wiki/Stanislav_Grof
 
 ---
 ## MDMA (Exstasy)
 
-MAPS - MDMA-Assisted Psychotherapy
+MDMA-Assisted Psychotherapy
 
 https://www.maps.org/research/mdma
 
@@ -43,8 +47,9 @@ www.maps.org/research/ibogaine-therapy
 
 ## Sources
 
-- Books (A. Shulgin, S. Groff)
+- Books (A. Shulgin, S. Grof)
 - Publications
+- Websites
 - Mass media
 - Law regulations
 - Historical facts
