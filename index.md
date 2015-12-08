@@ -18,6 +18,7 @@ https://en.wikipedia.org/wiki/Stanislav_Grof
 ## MDMA (Exstasy)
 
 MAPS - MDMA-Assisted Psychotherapy
+
 https://www.maps.org/research/mdma
 
 ---
@@ -25,4 +26,15 @@ https://www.maps.org/research/mdma
 
 
 Ibogaine therapy
+
 www.maps.org/research/ibogaine-therapy
+
+---
+
+# Publications
+
+# Mass media
+
+# Law regulations
+
+# Historical facts
