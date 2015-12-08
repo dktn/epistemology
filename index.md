@@ -35,6 +35,12 @@ www.maps.org/research/ibogaine-therapy
 
 ---
 
+## Ayahuasca
+
+Ayahuasca assisted therapy
+
+---
+
 ## Topics
 
 - controversy
