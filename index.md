@@ -31,15 +31,21 @@ www.maps.org/research/ibogaine-therapy
 
 ---
 
+## Topics
+
+- controversy
+  * law
+  * ethics
+  * medicine as science
+  * spiritual experience vs psychosis
+
+---
+
 ## Sources
 
+- Books (A. Shulgin, S. Groff)
 - Publications
 - Mass media
 - Law regulations
 - Historical facts
 
----
-
-## Topics
-
-- controversy
