@@ -31,10 +31,15 @@ www.maps.org/research/ibogaine-therapy
 
 ---
 
-# Publications
+## Sources
 
-# Mass media
+- Publications
+- Mass media
+- Law regulations
+- Historical facts
 
-# Law regulations
+---
 
-# Historical facts
+## Topics
+
+- controversy
